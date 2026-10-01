@@ -8,7 +8,7 @@ schemas:
 $graph:
   # Workflow entrypoint
   - class: Workflow
-    id: convert-url
+    id: convert-url-2
     label: convert url app
     doc: Convert URL
     requirements:
